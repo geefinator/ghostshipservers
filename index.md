@@ -21,3 +21,5 @@ GhostShip.
 ### Questions?
 
 Have an issue, question or comment?  Please send an email to: geoff@ghostship.org
+
+Or hop into our [Discord](http://discord.gg/RSywJ84)!
