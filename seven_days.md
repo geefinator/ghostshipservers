@@ -39,6 +39,6 @@ places like large cities and towns.
 
 ## About the admin
 
-Ghostship servers are ran by [BereftOfBody](http://steamcommunity.com/profiles/76561197986335224/) who is a Systems engineering
+Ghostship servers are ran by [BereftOfBody](http://steamcommunity.com/profiles/76561197986335224/) who is a Systems Engineer
 by trade.  I am dedicated to making the servers I am in charge of run like well
 oiled machines with little to no downtime unless there is a patch being applied.
