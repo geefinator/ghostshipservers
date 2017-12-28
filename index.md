@@ -2,7 +2,7 @@
 
 Ghostship Game Servers are currently sailing the stormy seas on the following games:
 
-[Seven Days to Die](seven_days.md)
+[Seven Days to Die](seven_days.html)
 
 [Rust](rust.md)
 
