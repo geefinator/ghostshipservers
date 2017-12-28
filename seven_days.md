@@ -7,6 +7,7 @@ once we have the population to support it.  This server is brand new, so this is
 the perfect chance to get a fresh start on a dedicated MP server!
 
 Hostname: 7dtd.ghostship.org
+
 Port: 26900
 
 ## Rules
@@ -22,11 +23,17 @@ Ghostbot (our botman install) is installed which provides a ton of things
 to the server, just to list some:
 
 * In game currency (Zennies) gotten by killing zombies.
+
 * In game store to buy things from using Zennies (food, meds etc)
+
 * Locations (Points of Interest) that players are able to teleport to.
+
 * Chat functionality to support private messages.
+
 * Anticheat and Hacking detection and auto banning.
+
 * Vast admin command functionality to assist players who run into glitches.
+
 * Ability to set reset zones which prevent building and allow for weekly resets
 places like large cities and towns.
 
